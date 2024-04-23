@@ -2,7 +2,7 @@
 Este programa está escrito en Python, como se observa, con la ayuda de la librería Opencv, es posible contar objetos de una imagen.
 
 # Opencv
-Biblioteca de Código abierto, que abaraca más de 2500 algoritmos, librería especializada en visión artificial y machine learning.
+Biblioteca de Código abierto, que abarca más de 2500 algoritmos, librería especializada en visión artificial y machine learning.
 
 # Instalar Opencv en Anaconda
 Abrir Anaconda Prompt o tu terminal y ejecutar el siguiente comando:
